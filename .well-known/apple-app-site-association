@@ -1,4 +1,3 @@
-
 {
   "applinks": {
     "apps": [
@@ -6,9 +5,9 @@
     ],
     "details": [
       {
-        "appID": "EQHXZ8M8AV.com.google.Dzimuth",
+        "appID": "7M8XGUGE24.com.vmcp.universallinks",
         "paths": [
-          "*"
+          "/dlink/*",
           
         ]
       }
