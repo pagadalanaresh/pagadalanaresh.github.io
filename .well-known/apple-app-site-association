@@ -1,16 +1,15 @@
 {
-  "applinks": {
-    "apps": [
-      
-    ],
+  "appLinks": {
     "details": [
       {
         "appID": "7M8XGUGE24.com.vmcp.universallinks",
         "paths": [
-          "/dlink/*",
-          
+          "/dlink/*"
         ]
       }
+    ],
+    "apps": [
+      
     ]
   }
 }
