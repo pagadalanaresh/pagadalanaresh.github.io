@@ -2,7 +2,7 @@
   "appLinks": {
     "details": [
       {
-        "appID": "7M8XGUGE24.com.visa.vdca.fdnb.bl",
+        "appID": "7M8XGUGE24.com.visa.vdca.fdnb",
         "paths": [
           "/dlink/*"
         ]
