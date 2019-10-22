@@ -1,9 +1,19 @@
 {
-                "applinks": {
-                                "apps": [],
-                                "details": [{
-                                                "appID": "7M8XGUGE24.com.vmcp.universallinks",
-                                                "paths": ["*", "/dlink/*"]
-                                }]
-                }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": " 8LAMR92KJ8.com.dbs.uat1.sgmb",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": " 8LAMR92KJ8.com.dbs.uat1.sgmb",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
